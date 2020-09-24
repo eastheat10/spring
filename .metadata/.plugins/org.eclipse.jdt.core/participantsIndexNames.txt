@@ -1,13 +1,3 @@
 INDEX VERSION 1.131
-C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2027258913.index
-\hello1\src\main\java
-C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\811200684.index
-\hello2\src\main\java
-C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1811791186.index
-\hello2\src\main\java
-C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4253900312.index
-\hello2\src\main\java
-C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4212439942.index
+C:\Users\User\Documents\workspace-spring-tool-suite-4-4.7.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4212439942.index
 \A201733027\src\main\java
-C:\Users\USER\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1005660074.index
-\hello2\src\main\java
