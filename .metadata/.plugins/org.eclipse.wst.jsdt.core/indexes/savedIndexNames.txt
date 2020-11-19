@@ -1,13 +1,7 @@
-INDEX VERSION 1.4+C:\Users\User\Documents\workspace-spring-tool-suite-4-4.7.2.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-173558988.index
-3569386628.index
-2824266427.index
-3310342781.index
-1093350921.index
-1745704400.index
-2407739836.index
-2995455252.index
-1689553599.index
-3164218722.index
+INDEX VERSION 1.4+C:\Users\a\Documents\workspace-sts-3.9.14.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1985446251.index
+1026815747.index
+1795173132.index
 1468570521.index
-4258844904.index
+1508716747.index
+3061462925.index
