@@ -8,6 +8,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import net.skhu.dto.Department;
 import net.skhu.dto.Employee;
@@ -40,6 +41,27 @@ public class EmployeeController {
 	@PostMapping("create")
 	public String create(Model model, Employee employee) {
 		employeeMapper.insert(employee);
+		return "redirect:list";
+	}
+
+	@GetMapping("edit")
+	public String edit(Model model, @RequestParam("id") int id) {
+		Employee employee = employeeMapper.findOne(id);
+		List<Department> departments = departmentMapper.findAll();
+		model.addAttribute("departments", departments);
+		model.addAttribute("employee", employee);
+		return "employee/edit";
+	}
+
+	@PostMapping("edit")
+	public String edit(Model model, Employee employee) {
+		employeeMapper.insert(employee);
+		return "redirect:list";
+	}
+
+	@RequestMapping("delete")
+	public String delete(Model model, @RequestParam("id") int id) {
+		employeeMapper.delete(id);
 		return "redirect:list";
 	}
 

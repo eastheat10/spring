@@ -2,10 +2,12 @@ package net.skhu.mapper;
 
 import java.util.List;
 
+import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Options;
 import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.Update;
 
 import net.skhu.dto.Employee;
 
@@ -28,4 +30,15 @@ public interface EmployeeMapper {
 	@Options(useGeneratedKeys=true, keyProperty="id")
 	void insert(Employee employee);
 
+	@Update("Update Employee Set				" +
+			" employeeNo = #{ employeeNo }		" +
+			" name = #{ name }					" +
+			" departmentId = #{ departmentId }  " +
+			" salary = #{ salary }				" +
+			" sex = #{ sex } 					" +
+			" where id = #{ id }")
+	void update(Employee employee);
+
+	@Delete("Delete from Employee where id = #{ id }")
+	void delete(int id);
 }
