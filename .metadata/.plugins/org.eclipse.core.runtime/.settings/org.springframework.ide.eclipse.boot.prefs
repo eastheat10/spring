@@ -1,15 +1,30 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=9
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mybatis=5
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=5
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=9
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=B201733027_test
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.1.17.RELEASE
+=======
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=16
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=7
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mybatis=10
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=12
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=16
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=jpa2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.2.11.RELEASE
+>>>>>>> a0d0844b66c17bebd0216f02103822e37c91ec2a
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=net.skhu
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+<<<<<<< HEAD
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=B201733027_test
+=======
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=jpa2
+>>>>>>> a0d0844b66c17bebd0216f02103822e37c91ec2a
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=net.skhu
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=war
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN

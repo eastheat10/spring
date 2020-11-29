@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+=======
+    <fullyQualifiedTypeName name="net.skhu.dto.Register"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="net.skhu.dto.Student"/>
+    <fullyQualifiedTypeName name="net.skhu.repository.DepartmentRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+>>>>>>> a0d0844b66c17bebd0216f02103822e37c91ec2a
 </qualifiedTypeNameHistroy>
