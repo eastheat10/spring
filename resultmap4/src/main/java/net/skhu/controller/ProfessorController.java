@@ -10,11 +10,12 @@ import net.skhu.mapper.ProfessorMapper;
 @Controller
 public class ProfessorController {
 
-	@Autowired ProfessorMapper professorMapper;
+    @Autowired ProfessorMapper professorMapper;
 
-	@RequestMapping("professor/list")
-	public String list(Model model) {
-		model.addAttribute("professors", professorMapper.findAll());
-		return "professor/list";
-	}
+    @RequestMapping("professor/list")
+    public String list(Model model) {
+        model.addAttribute("professors", professorMapper.findAll());
+        return "professor/list";
+    }
+
 }

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+             "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="net.skhu.mapper.CategoryMapper">
+
+  <select id="findAll" resultMap="categoryWithProduct">
+    select c.*, p.id productId, p.name, p.categoryId, p.price, p.quantity
+	from product p join category c on p.categoryId = c.id
+	order by p.id
+
+  </select>
+
+  <resultMap id="categoryWithProduct" type="net.skhu.dto.Category">
+    <id property="id" column="id" />
+    <result property="title" column="title" />
+    <collection property="products" ofType="net.skhu.dto.Product">
+      <id property="productId" column="productId" />
+      <result property="name" column="name" />
+      <result property="categoryId" column="categoryId" />
+      <result property="price" column="price" />
+      <result property="quantity" column="quantity" />
+    </collection>
+  </resultMap>
+
+</mapper>

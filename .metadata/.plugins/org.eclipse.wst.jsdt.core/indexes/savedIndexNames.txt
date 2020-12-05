@@ -1,28 +1,19 @@
-<<<<<<< HEAD
 INDEX VERSION 1.4+C:\Users\User\Documents\workspace-spring-tool-suite-4-4.7.2.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-173558988.index
-3569386628.index
-2824266427.index
-3310342781.index
-1093350921.index
-1745704400.index
-2995455252.index
-2407739836.index
-1689553599.index
-1468570521.index
-=======
-INDEX VERSION 1.4+C:\Users\a\Documents\workspace-sts-3.9.14.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-263982434.index
-1468570521.index
-1026815747.index
-3963123861.index
-3886208372.index
 1966156079.index
-37099961.index
-2622655514.index
-1508716747.index
-1795173132.index
+3886208372.index
+2255000006.index
+2409275782.index
 378794044.index
+2824266427.index
+2296678507.index
+1468570521.index
+1689553599.index
+173558988.index
+1772813048.index
+37099961.index
+3785883081.index
+3963123861.index
+3605231008.index
+2407739836.index
+2622655514.index
 2125169870.index
-3061462925.index
->>>>>>> a0d0844b66c17bebd0216f02103822e37c91ec2a

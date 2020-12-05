@@ -6,8 +6,9 @@ import lombok.Data;
 
 @Data
 public class Professor {
-	int id;
-	String professorName;
-	int departmentId;
-	List<Course> courses;
+    int id;
+    String professorName;
+    int departmentId;
+
+    List<Course> courses;
 }

@@ -6,7 +6,7 @@ import lombok.Data;
 public class Student {
 
 	int id;
-	String studnetNumber;
+	String studentNumber;
 	String name;
 	int departmnetId;
 	int year;

@@ -6,10 +6,10 @@ import lombok.Data;
 
 @Data
 public class Course {
-	int id;
-	String courseName;
-	int departmentId;
-	int unit;
-	int professorId;
-	Date startDate;
+    int id;
+    String courseName;
+    int departmentId;
+    int unit;
+    int professorId;
+    Date startDate;
 }

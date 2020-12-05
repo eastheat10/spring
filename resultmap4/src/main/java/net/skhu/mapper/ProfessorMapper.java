@@ -9,6 +9,5 @@ import net.skhu.dto.Professor;
 @Mapper
 public interface ProfessorMapper {
 
-	List<Professor> findAll();
-
+    List<Professor> findAll();
 }

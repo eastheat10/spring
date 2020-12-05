@@ -15,7 +15,7 @@ public class RegisterController {
 
 	@RequestMapping("list")
 	public String list(Model model) {
-		model.addAttribute("regusters", registerMapper.findAll());
+		model.addAttribute("registers", registerMapper.findAll());
 		return "register/list";
 
 	}

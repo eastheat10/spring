@@ -10,7 +10,7 @@ import net.skhu.dto.Student;
 @Mapper
 public interface StudentMapper {
 
-	@Select("SELECT s.*, d.departmentName " +
+	@Select("SELECT s.*, d.departmentName 							   " +
 			"FROM student s JOIN department d ON s.departmentID = d.id " +
 			"ORDER BY												   " +
 			" (CASE WHEN #{order} = 0 THEN studentNumber END) ASC, 	   " +
