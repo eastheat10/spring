@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-<entry loc="C:\Program Files\Zulu\zulu-8" stamp="1599462698937"/>
-<entry loc="C:\Program Files\Java\jdk-13.0.2" stamp="1584349788787"/>
-<entry loc="C:\Program Files\Zulu\zulu-11" stamp="1603359536919"/>
+    <entry loc="/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.0.v20201014-1246/jre" stamp="1603438881000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home" stamp="1604672723000"/>
+    <entry loc="/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.0.v20201014-1246" stamp="1603438881000"/>
 </dirs>
