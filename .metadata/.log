@@ -2274,3 +2274,138 @@ java.lang.IllegalArgumentException: can not get a buffer without a document refe
 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
 	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1559)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:06.118
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:06.119
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:06.119
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:06.119
+!MESSAGE executing callback sts4.classpath.DWKFRbrY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.562
+!MESSAGE executing callback sts4.classpath.DWKFRbrY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.563
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.565
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.567
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.567
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.570
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.573
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.573
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.576
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.578
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.578
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.580
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.582
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.582
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.588
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.591
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.592
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.596
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.598
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.598
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.602
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.604
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.605
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.608
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.610
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.610
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.613
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.614
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.614
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.617
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.621
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.622
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.624
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.626
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.627
+!MESSAGE executing callback sts4.classpath.DWKFRbrY 11 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 12:54:07.700
+!MESSAGE executing callback sts4.classpath.DWKFRbrY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 14:16:23.434
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 14:16:23.437
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 14:16:23.439
+!MESSAGE buffering callback sts4.classpath.DWKFRbrY jpa4 false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 14:16:23.440
+!MESSAGE executing callback sts4.classpath.DWKFRbrY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 14:16:23.445
+!MESSAGE executing callback sts4.classpath.DWKFRbrY SUCCESS [done]
