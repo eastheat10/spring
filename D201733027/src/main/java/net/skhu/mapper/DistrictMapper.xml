@@ -5,7 +5,7 @@
 <mapper namespace="net.skhu.mapper.DistrictMapper">
 
   <select id="findAll" resultMap="districtWithCity">
-    select d.*, c.id, c.name, c.population, c.area
+    select d.*, c.id cityId, c.name, c.population, c.area
 	from city c join district d on c.districtId = d.id
 	order by c.id
   </select>
