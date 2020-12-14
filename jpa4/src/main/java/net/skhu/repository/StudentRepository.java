@@ -18,4 +18,6 @@ public interface StudentRepository extends JpaRepository<Student, Integer> {
 	List<Student> findByOrderByNameDesc();
 	List<Student> findByDepartmentIdOrderByNameDesc(int id);
 
+	void deleteById(int id);
+
 }
