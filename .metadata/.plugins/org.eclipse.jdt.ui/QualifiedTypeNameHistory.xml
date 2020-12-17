@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="net.skhu.entity.Product"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="net.skhu.entity.Assignment"/>
 </qualifiedTypeNameHistroy>
