@@ -30,10 +30,10 @@ public class UserController {
 
 	@PostMapping("register")
 	public String register(Model model, @Valid UserRegistration userRegistration, BindingResult bindingResult) {
-		if(bindingResult.hasErrors()) {
-			model.addAttribute("departments", departmentService.findAll());
-			return "user/register";
-		}
+		if (userService.hasErrors(userRegistration, bindingResult)) {
+            model.addAttribute("departments", departmentService.findAll());
+            return "user/register";
+        }
 		userService.save(userRegistration);
 		return "redirect:success";
 	}
