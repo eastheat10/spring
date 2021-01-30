@@ -8,23 +8,18 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="${R}res/common.css">
   <style>
-    div.box { padding: 50px; width: 300px; }
+    div.box { padding: 30px; }
   </style>
 </head>
 <body>
 <div class="container">
   <div class="box">
-    <h1>첫 페이지</h1>
+    <h1>관리자 페이지 #2</h1>
 
-    <sec:authorize access="not authenticated">
-      <a class="btn" href="${R}login">로그인</a>
-            <a href="register" class="btn">회원가입</a>
-    </sec:authorize>
-    <sec:authorize access="authenticated">
-      <a class="btn" href="${R}user/index">사용자 페이지</a>
-      <a class="btn" href="${R}logout_processing">로그아웃</a>
-    </sec:authorize>
-  </div>
+    <a class="btn" href="${R}logout_processing">로그아웃</a>
+    <a class="btn" href="${R}user/index">뒤로</a>
+</div>
 </div>
 </body>
 </html>
+
