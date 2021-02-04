@@ -12596,3 +12596,104 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2021-02-03 23:16:47,125 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-02-03 23:16:47,125 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-02-03 23:16:47,125 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/oauth2_test1/src/test/resources
+2021-02-04 10:35:39,420 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-04 10:37:33,956 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:37:33,956 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:37:33,961 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:37:33,992 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:37:33,995 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:37:33,995 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:37:33,995 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/oauth2_test1/src/test/resources
+2021-02-04 10:44:36,770 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:44:36,772 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:44:36,774 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:44:36,777 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:44:36,779 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:44:36,779 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:44:36,779 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/oauth2_test1/src/test/resources
+2021-02-04 10:44:51,406 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:44:51,406 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:44:51,406 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:44:51,420 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:44:51,422 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:44:51,422 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:44:51,422 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/oauth2_test1/src/test/resources
+2021-02-04 10:49:43,365 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:49:43,366 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:49:43,376 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:49:43,378 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:49:43,378 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/A201733027/src/test/resources
+2021-02-04 10:49:51,664 [Worker-22: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-04 10:49:51,665 [Worker-22: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-04 10:49:51,666 [Worker-22: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-04 10:49:51,667 [Worker-22: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-04 10:49:51,668 [Worker-22: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-04 10:49:51,823 [Worker-20: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration oauth2_test1 - Oauth2Test1Application at file:/Users/dongyeol/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/.metadata/.plugins/org.eclipse.debug.core/.launches/oauth2_test1%20-%20Oauth2Test1Application.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.disconnect(ConsoleLineNotifier.java:71)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener.dispose(ConsolePatternMatcher.java:198)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher.disconnect(ConsolePatternMatcher.java:260)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:164)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
